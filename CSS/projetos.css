@@ -1,0 +1,60 @@
+body{
+
+    background-color: orange;
+}
+.foto{
+    height: 200px;
+    width: 200px;
+    background-color: mediumturquoise;
+    border-radius:80%;
+
+    margin:auto
+}
+.foto img{
+    border-radius: 80%;
+}
+
+.conteudo{
+    background-color: mintcream;
+    height: 400px;
+    width: 1200px;
+
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+}
+.casa_botao{
+    width:600px;
+    height: 400px;
+    background-color:white;
+}
+.button{
+    background-color: palevioletred;
+    height: 100px;
+    width: 1100px;
+    margin-top: 20px;
+    margin-left: 40px;
+    float: left;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid transparent;
+    transition: all 600ms;
+}
+
+.button p{
+    margin-top: 40px;
+
+}
+
+.button:hover{
+    border: 10px solid red;
+}
+
+
+.smol-image{
+width: 400px;
+height: 400px;
+margin-left: 700px;
+}
